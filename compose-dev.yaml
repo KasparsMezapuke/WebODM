@@ -1,0 +1,4 @@
+    volumes:
+    - type: bind
+      source: /var/run/docker.sock
+
